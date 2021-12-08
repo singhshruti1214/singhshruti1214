@@ -1,5 +1,13 @@
-### Hi there Everyone!👋
+### Hi there!👋
 
+
+<div>
+  <h1 align="center"> 
+    <strong><img src="https://avatars.githubusercontent.com/u/62882658?v=4" width="190px"> Hey! I am <mark>Shruti Gupta</mark></strong><img src="https://media.giphy.com/media/l0ErF20vSr9wVqFsk/giphy.gif" width="90px">
+    <br> <strong> I’m currently learning <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTznU6-KQLUxFSYQA0SF0z_fkfaZ15NeG5Fw&usqp=CAU" width="45px"> JIRA REST API Learning  <img src="https://media.giphy.com/media/l41K2nK1kW3wCM6dy/giphy.gif" width="36px"> and brushing up my basics. </strong>
+    <br> <strong> I believe in learning new thing everyday</strong> 
+  </h1>
+</div>
 <!--
 **singhshruti1214/singhshruti1214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
